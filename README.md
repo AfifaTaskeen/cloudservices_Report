@@ -4,11 +4,9 @@ This repository contains my cloud computing assignment, including detailed expla
 
 ---
 
-## Full Report (PDF)
+## Report
 
-You can read the complete assignment here:
-
-[click here to open the pdf](docs/cloud_services.pdf)
+[Open the Cloud Computing Report (PDF)](docs/cloud_services.pdf)
 
 ---
 
@@ -43,5 +41,6 @@ Cloud computing provides scalable and flexible access to computing resources thr
 ## Author
 
 **Afifa Taskeen**
-3rd Year B.E. Student
-Maharaja Institute of Technology Mysore
+3rd Year B.E.
+Maharaja Institute of Technology, Mysore
+
