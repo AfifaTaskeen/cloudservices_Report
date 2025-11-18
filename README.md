@@ -8,7 +8,7 @@ This repository contains my cloud computing assignment, including detailed expla
 
 You can read the complete assignment here:
 
-**docs/cloud_services.pdf**
+[click here to open the pdf](docs/cloud_services.pdf)
 
 ---
 
