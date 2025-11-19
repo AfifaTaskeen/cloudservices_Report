@@ -1,46 +1,52 @@
-# Cloud Computing – SaaS, PaaS, IaaS (Report)
+ # Cloud Computing – SaaS, PaaS, IaaS (Report)
 
-This repository contains my cloud computing assignment, including detailed explanations and implementations of the three main cloud service models: **Infrastructure as a Service (IaaS)**, **Platform as a Service (PaaS)**, and **Software as a Service (SaaS)**.
+This repository contains my cloud computing assignment, including explanations and examples of the three main cloud service models:
 
----
-
-## Report
-
-[Open the Cloud Computing Report (PDF)](docs/cloud_services.pdf)
+- **Infrastructure as a Service (IaaS)**
+- **Platform as a Service (PaaS)**
+- **Software as a Service (SaaS)**
 
 ---
 
-## Overview
+## 📄 Full Report (PDF)
 
-Cloud computing provides scalable and flexible access to computing resources through the internet. This project explains:
+Read the complete assignment here:
 
-- What cloud computing is
-- Why cloud service models exist
-- Definitions of IaaS, PaaS, SaaS
-- Features and architecture
-- Real-world examples
-- Hands-on implementations using AWS EC2, Firebase, and Google Docs
+➡ [Click here to open the full report (PDF)](docs/cloud_services.pdf)
 
 ---
 
-## Contents
+## 📌 Overview
 
-- Introduction
-- Objectives
-- Cloud Computing Background
-- IaaS (Definition, Features, Architecture, Examples)
-- PaaS (Definition, Features, Architecture, Examples)
-- SaaS (Definition, Features, Architecture, Examples)
-- Implementations
-- Conclusion
-- References
-- Bibliography
+Cloud computing provides scalable, on-demand access to computing resources over the internet.  
+This project explains:
+
+- What cloud computing is  
+- Why cloud service models exist  
+- Definitions of **IaaS, PaaS, SaaS**  
+- Key features and architecture  
+- Real-world industry examples  
+- Small hands-on implementations using AWS EC2, Firebase, and Google Docs  
 
 ---
 
-## Author
+## 📚 Contents
 
-**Afifa Taskeen**
-3rd Year B.E.
-Maharaja Institute of Technology, Mysore
+- Introduction  
+- Objectives  
+- Cloud Computing Concepts  
+- IaaS — Definition, Features, Architecture, Examples  
+- PaaS — Definition, Features, Architecture, Examples  
+- SaaS — Definition, Features, Architecture, Examples  
+- Implementations  
+- Conclusion  
+- References  
+- Bibliography  
 
+---
+
+## 👩‍💻 Author
+
+**Afifa Taskeen**  
+3rd Year B.E. Student  
+Maharaja Institute of Technology Mysore
