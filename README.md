@@ -12,7 +12,7 @@ This repository contains my cloud computing assignment, including explanations a
 
 Read the complete assignment here:
 
-➡ [Click here to open the full report (PDF)](docs/cloud_services.pdf)
+➡ [Click here to open the full report (PDF)](docs/cloudservices.pdf)
 
 ---
 
