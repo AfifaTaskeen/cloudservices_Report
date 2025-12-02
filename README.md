@@ -38,13 +38,30 @@ This project explains:
 - IaaS — Definition, Features, Architecture, Examples  
 - PaaS — Definition, Features, Architecture, Examples  
 - SaaS — Definition, Features, Architecture, Examples  
-- Implementations  
+- Implementations
+- Discussion
+- Problem Faced
 - Conclusion  
 - References  
 - Bibliography  
 
 ---
 
+
+🛠️ Implementations
+1. IaaS – AWS EC2
+
+I created a virtual machine using Amazon EC2 by selecting an OS, choosing an instance type, configuring network settings, and connecting through EC2 Instance Connect. This showed how IaaS gives full control over the server setup and software installation.
+
+2. PaaS – Firebase
+
+I used Firebase to create a project and set up a Firestore database. I added attendance records without managing any backend servers. Firebase handled storage, scaling, and configuration automatically, showing how PaaS simplifies development.
+
+3. SaaS – Google Docs
+
+I used Google Docs directly from the browser to create and edit documents. No installation or setup was required. This demonstrated how SaaS provides ready-to-use applications online with automatic updates.
+
+---
 ## 👩‍💻 Author
 
 **Afifa Taskeen**  
